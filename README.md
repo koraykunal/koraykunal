@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Koray</h1>
+<h1 align="center">Hi</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
 - 🔭 I’m currently working on programmer platform **oval**
